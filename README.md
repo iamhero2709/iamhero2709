@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/randhir302" target="blank"><img src="https://img.shields.io/twitter/follow/randhir302?logo=twitter&style=for-the-badge" alt="randhir302" /></a> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **AI/ML PROJECTS**
 
-- 🌱 I’m currently learning **WEB3**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
-- 👯 I’m looking to collaborate on **MERN project**
+- 👯 I’m looking to collaborate on **AI/ML ,WEB DEVELOPMENT  PROJECTS**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **WEB DEVLOPMENT AND AI/ML**
 
 - 📫 How to reach me **randhir2709vns@gmail.com**
 
